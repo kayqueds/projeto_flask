@@ -8,3 +8,16 @@ separação de arquivos
 --- templates -> front
 --- routes -> rotas /
 
+
+--comandos git
+git init
+git branch -M main
+git add . 
+git commit -m "mensagem"
+git remote add origin "seuRepositorio.git"
+git push origin main
+
+
+-- como acessar páginas
+
+usar o url_for que vai referenciar a funcao
