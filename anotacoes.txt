@@ -1,0 +1,10 @@
+Métodos get e post
+-- o get solicita uma informação e retorna
+-- o post envia: formularios
+
+---Estrututa MVC------
+separação de arquivos
+---models -> banco de dados
+--- templates -> front
+--- routes -> rotas /
+
